@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<ConfigInfo xmlns="http://br-automation.co.at/AS/BuildInfo">
+  <TaskClass
+    Name="Cyclic#1" />
+  <TaskClass
+    Name="Cyclic#2" />
+  <TaskClass
+    Name="Cyclic#3" />
+  <TaskClass
+    Name="Cyclic#4">
+    <Task
+      Name="DoorCtrl"
+      Disable="false"
+      Source="DoorCtrl"
+      Language="ANSIC">
+      <File
+        Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\DoorCtrl\Types.typ" />
+      <File
+        Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\DoorCtrl\Variables.var" />
+    </Task>
+    <Task
+      Name="LedCtrl"
+      Disable="false"
+      Source="LedCtrl"
+      Language="ANSIC">
+      <File
+        Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\LedCtrl\Types.typ" />
+      <File
+        Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\LedCtrl\Variables.var" />
+    </Task>
+  </TaskClass>
+  <TaskClass
+    Name="Cyclic#5" />
+  <TaskClass
+    Name="Cyclic#6" />
+  <TaskClass
+    Name="Cyclic#7" />
+  <TaskClass
+    Name="Cyclic#8" />
+</ConfigInfo>

@@ -1,0 +1,3 @@
+$(AS_PROJECT_PATH)/logical/libraries/gatectrl/gatectrl.fun
+$(AS_PROJECT_PATH)/logical/doorctrl/variables.var
+$(AS_PROJECT_PATH)/logical/ledctrl/variables.var

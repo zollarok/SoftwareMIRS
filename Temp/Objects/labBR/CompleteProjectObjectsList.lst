@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<Objects>
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="132829924012168052" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="132829924012029355"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="132829924012104946"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="132829924016386936" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\Runtime\binary.lby"
+    LogicalPath="Libraries.Runtime"
+    Type="Library"
+    LastWriteTime="132829924026338934" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\Runtime\runtime.fun"
+    LogicalPath="Libraries.Runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="132829924026380954"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\Runtime\runtime.typ"
+    LogicalPath="Libraries.Runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="132829924026424272"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\Runtime\runtime.var"
+    LogicalPath="Libraries.Runtime.runtime.var"
+    Type="File"
+    LastWriteTime="132829924026467054"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\X64Lib\ANSIC.lby"
+    LogicalPath="Libraries.X64Lib"
+    Type="Library"
+    LastWriteTime="132829924027143939" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\X64Lib\X64Lib.typ"
+    LogicalPath="Libraries.X64Lib.X64Lib.typ"
+    Type="File"
+    LastWriteTime="132829924027261695"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\X64Lib\X64Lib.var"
+    LogicalPath="Libraries.X64Lib.X64Lib.var"
+    Type="File"
+    LastWriteTime="132829924027301714"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\X64Lib\FBX64Inverter.c"
+    LogicalPath="Libraries.X64Lib.FBX64Inverter.c"
+    Type="File"
+    LastWriteTime="132829946272938215"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\X64Lib\X64Lib.fun"
+    LogicalPath="Libraries.X64Lib.X64Lib.fun"
+    Type="File"
+    LastWriteTime="132829936515834756"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\Operator\binary.lby"
+    LogicalPath="Libraries.Operator"
+    Type="Library"
+    LastWriteTime="132829924025921554" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\Operator\operator.fun"
+    LogicalPath="Libraries.Operator.operator.fun"
+    Type="File"
+    LastWriteTime="132829924025951546"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\Operator\operator.typ"
+    LogicalPath="Libraries.Operator.operator.typ"
+    Type="File"
+    LastWriteTime="132829924025998134"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\Operator\operator.var"
+    LogicalPath="Libraries.Operator.operator.var"
+    Type="File"
+    LastWriteTime="132829924026035248"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="132829924022965058" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="132829924022865033"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="132829924022895036"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="132829924022935052"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="132829924023975367" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="132829924023851113"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="132829924023891955"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="132829924023935361"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\sys_lib\binary.lby"
+    LogicalPath="Libraries.sys_lib"
+    Type="Library"
+    LastWriteTime="132829924026739658" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\sys_lib\sys_lib.fun"
+    LogicalPath="Libraries.sys_lib.sys_lib.fun"
+    Type="File"
+    LastWriteTime="132829924026784400"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\sys_lib\sys_lib.typ"
+    LogicalPath="Libraries.sys_lib.sys_lib.typ"
+    Type="File"
+    LastWriteTime="132829924026814396"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\sys_lib\sys_lib.var"
+    LogicalPath="Libraries.sys_lib.sys_lib.var"
+    Type="File"
+    LastWriteTime="132829924026854426"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\asstring\Binary.lby"
+    LogicalPath="Libraries.asstring"
+    Type="Library"
+    LastWriteTime="132829924023584965" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\asstring\asstring.fun"
+    LogicalPath="Libraries.asstring.asstring.fun"
+    Type="File"
+    LastWriteTime="132829924023467947"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\asstring\asstring.typ"
+    LogicalPath="Libraries.asstring.asstring.typ"
+    Type="File"
+    LastWriteTime="132829924023503472"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\asstring\asstring.var"
+    LogicalPath="Libraries.asstring.asstring.var"
+    Type="File"
+    LastWriteTime="132829924023543486"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\GateCtrl\ANSIC.lby"
+    LogicalPath="Libraries.GateCtrl"
+    Type="Library"
+    LastWriteTime="132829924025277042" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\GateCtrl\Types.typ"
+    LogicalPath="Libraries.GateCtrl.Types.typ"
+    Type="File"
+    LastWriteTime="132829924025475154"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\GateCtrl\Constants.var"
+    LogicalPath="Libraries.GateCtrl.Constants.var"
+    Type="File"
+    LastWriteTime="132829924025317045"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\GateCtrl\GateCtrl.fun"
+    LogicalPath="Libraries.GateCtrl.GateCtrl.fun"
+    Type="File"
+    LastWriteTime="132829924025444835"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\GateCtrl\FBGate.c"
+    LogicalPath="Libraries.GateCtrl.FBGate.c"
+    Type="File"
+    LastWriteTime="132829946272366948"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\Libraries\GateCtrl\FBLed.c"
+    LogicalPath="Libraries.GateCtrl.FBLed.c"
+    Type="File"
+    LastWriteTime="132829924025402887"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\DoorCtrl\ANSIC.prg"
+    LogicalPath="DoorCtrl"
+    Type="Program"
+    LastWriteTime="132829924012419891" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\DoorCtrl\Main.c"
+    LogicalPath="DoorCtrl.Main.c"
+    Type="File"
+    LastWriteTime="132829924012475037"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\DoorCtrl\Types.typ"
+    LogicalPath="DoorCtrl.Types.typ"
+    Type="File"
+    LastWriteTime="132829924012506605"
+    Private="true" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\DoorCtrl\Variables.var"
+    LogicalPath="DoorCtrl.Variables.var"
+    Type="File"
+    LastWriteTime="132829924012546625"
+    Private="true" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\LedCtrl\ANSIC.prg"
+    LogicalPath="LedCtrl"
+    Type="Program"
+    LastWriteTime="132829924016221370" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\LedCtrl\Main.c"
+    LogicalPath="LedCtrl.Main.c"
+    Type="File"
+    LastWriteTime="132829924016260226"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\LedCtrl\Types.typ"
+    LogicalPath="LedCtrl.Types.typ"
+    Type="File"
+    LastWriteTime="132829924016290227"
+    Private="true" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Logical\LedCtrl\Variables.var"
+    LogicalPath="LedCtrl.Variables.var"
+    Type="File"
+    LastWriteTime="132829924016336923"
+    Private="true" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\Config.pkg"
+    LogicalPath="labBR"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="132829924027674639" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\Hardware.hw"
+    LogicalPath="labBR.Hardware.hw"
+    Type="File"
+    LastWriteTime="132829924027716681"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\Hardware.hwl"
+    LogicalPath="labBR.Hardware.hwl"
+    Type="File"
+    LastWriteTime="132829924027790702"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\Cpu.pkg"
+    LogicalPath="labBR.4PP065_0571_P74"
+    Type="Cpu"
+    LastWriteTime="132829924027989650" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\Cpu.sw"
+    LogicalPath="labBR.4PP065_0571_P74.Cpu.sw"
+    Type="File"
+    LastWriteTime="132829924028040739"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\Cpu.per"
+    LogicalPath="labBR.4PP065_0571_P74.Cpu.per"
+    Type="File"
+    LastWriteTime="132829924027939641"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\IoMap.iom"
+    LogicalPath="labBR.4PP065_0571_P74.IoMap.iom"
+    Type="File"
+    LastWriteTime="132829924028096399"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\PvMap.vvm"
+    LogicalPath="labBR.4PP065_0571_P74.PvMap.vvm"
+    Type="File"
+    LastWriteTime="132829924028157020"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\mapp\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.mapp"
+    Type="Package"
+    LastWriteTime="132829924029298567" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\Connectivity\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.Connectivity"
+    Type="Package"
+    LastWriteTime="132829924029149952" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="132829924029209923" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\TextSystem\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.TextSystem"
+    Type="Package"
+    LastWriteTime="132829924031044417" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="132829924028239876" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="132829924028967782" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="132829924029007790"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="132829924029064309"
+    Private="false" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="132829924028292218" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="132829924028508183" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="132829924028584459" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="132829924028667242" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="132829924028744201" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="132829924028823325" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="132829924028362236" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="132829924028422236" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="132829924028894132" />
+  <Object
+    Path="C:\Users\lilNiBBa\Downloads\LABAFINAL\Physical\labBR\Hardware.jpg"
+    LogicalPath="labBR.Hardware.jpg"
+    Type="File"
+    LastWriteTime="132829924027871065"
+    Private="false" />
+</Objects>

@@ -1,0 +1,7 @@
+{
+  global:
+    FBLed;
+    FBGate;
+  local:
+    *;
+ };

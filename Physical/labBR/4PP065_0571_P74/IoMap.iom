@@ -1,0 +1,14 @@
+VAR_CONFIG
+	::DoorCtrl:DoorBlock.sw1 AT %IX."X20DI9371".DigitalInput03;
+	::DoorCtrl:DoorBlock.sw2 AT %IX."X20DI9371".DigitalInput04;
+	::DoorCtrl:DoorBlock.sw3 AT %IX."X20DI9371".DigitalInput05;
+	::DoorCtrl:CMD AT %QW."8I64xxxxxxx.00x-1".CMDD_Output;
+	::DoorCtrl:ETAD AT %IW."8I64xxxxxxx.00x-1".ETAD_Input;
+	::DoorCtrl:Speed AT %QW."8I64xxxxxxx.00x-1".LFRD_Output;
+	::LedCtrl:sc0 AT %QX."X20DO9322".DigitalOutput02;
+	::LedCtrl:sc1 AT %QX."X20DO9322".DigitalOutput03;
+	::LedCtrl:sc2 AT %QX."X20DO9322".DigitalOutput04;
+	::LedCtrl:sc3  AT %QX."X20DO9322".DigitalOutput05;
+	::DoorCtrl:DoorBlock.sw0 AT %IX."X20DI9371".DigitalInput02;
+	::DoorCtrl:DoorBlock.direction AT %IX."X20DI9371".DigitalInput01;
+END_VAR

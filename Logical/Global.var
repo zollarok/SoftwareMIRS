@@ -1,8 +1,6 @@
-
 VAR
-
-END_VAR
-
-VAR CONSTANT
-
+	sw1 : BOOL := FALSE;
+	sw2 : BOOL := FALSE;
+	sw3 : BOOL := FALSE;
+	sw0 : BOOL := FALSE;
 END_VAR

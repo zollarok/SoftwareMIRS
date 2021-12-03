@@ -1,0 +1,32 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=LedCtrl 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=200 Type=100 Scope=60 Force=60 Index=26 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                                      sc                                    FBLed    0 "                                                               *"    0   24    1    0    1    1         
+                                   State                                     DINT    0 "                                                               0"    1    4    1   10    0    0 e,0,ST_I
+
+                                      s1                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                      s2                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                      s3                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                      s4                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                     dir                                   FBGate    0 "                                                               *"    1   24    1    0    0    1         
+                                     sw0                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                     sw1                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                     sw2                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                     sw3                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                   State                                     DINT    0 "                                                               0"    2    4    1   10    0    0 e,0,ST_I
+
+                               direction                                     BOOL    0 "                                                           FALSE"    2    1    1    2    0    0         
+                                   Speed                                      INT    0 "                                                               0"    2    3    1   10    0    0         
+                                DriveBlk                            FBX64Inverter    0 "                                                               *"    2   24    1    0    0    1         
+                                  enable                                     BOOL    0 "                                                           FALSE"    3    1    1    2    0    0         
+                              ETAD_Input                                     UINT    0 "                                                               0"    3    6    1   10    0    0         
+                             CMDD_Output                                     UINT    0 "                                                               0"    3    6    1   10    0    0         
+                                     sex                                     UINT    0 "                                                               0"    3    6    1   10    0    0         
+                                     sc0                                     BOOL    3 "                                                           FALSE"    0    1    1    2    1    0         
+                                     sc1                                     BOOL    3 "                                                           FALSE"    0    1    1    2    1    0         
+                                     sc2                                     BOOL    3 "                                                           FALSE"    0    1    1    2    1    0         
+                                     sc3                                     BOOL    3 "                                                           FALSE"    0    1    1    2    1    0         
+                                     sw0                                     BOOL    0 "                                                           FALSE"    0    1    1    2    0    0         
+                                     sw1                                     BOOL    0 "                                                           FALSE"    0    1    1    2    0    0         
+                                     sw2                                     BOOL    0 "                                                           FALSE"    0    1    1    2    0    0         
+                                     sw3                                     BOOL    0 "                                                           FALSE"    0    1    1    2    0    0         

@@ -1,0 +1,7 @@
+VAR
+	sc : FBLed := (0);
+	sc0 : BOOL;
+	sc1 : BOOL;
+	sc2 : BOOL;
+	sc3 : BOOL;
+END_VAR
